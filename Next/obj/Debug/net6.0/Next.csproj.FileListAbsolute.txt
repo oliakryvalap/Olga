@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\новая\Next\bin\Debug\net6.0\Next.exe
+C:\Users\user\Desktop\новая\Next\bin\Debug\net6.0\Next.deps.json
+C:\Users\user\Desktop\новая\Next\bin\Debug\net6.0\Next.runtimeconfig.json
+C:\Users\user\Desktop\новая\Next\bin\Debug\net6.0\Next.dll
+C:\Users\user\Desktop\новая\Next\bin\Debug\net6.0\Next.pdb
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\Next.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\Next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\Next.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\Next.AssemblyInfo.cs
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\Next.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\Next.dll
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\refint\Next.dll
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\Next.pdb
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\Next.genruntimeconfig.cache
+C:\Users\user\Desktop\новая\Next\obj\Debug\net6.0\ref\Next.dll
